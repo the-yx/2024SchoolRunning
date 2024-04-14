@@ -3,55 +3,60 @@
 ## 技术说明
 
 ---
-<font color="#ec2b24">在学校看到许多人拿着科技到处诓骗钱财，本人实在看不下去了，向大家分享一下我个人刷跑技术！</font>
+
+> <font color="#ec2b24">在学校看到许多人拿着科技到处诓骗钱财，本人实在看不下去了，向大家分享一下我个人刷跑技术！</font>
 
 ---
 
-## 功能
+## 电脑端
 
-- 修改跑步模式
+- 用雷电模拟器（会被检测到模拟器可用反射大师跳过即可）亦或逍遥模拟器，夜神模拟器
+  其他操作类似手机端请参考手机端操作即可！
 
-  > 有序点位和无序点位
+## Android端
+
+- 手机有Root
+  > 直接安装面具坏境做好环境隐藏，安装***Fakelocation***和***运动世界校园***再安装HMS做好应用隐藏即可
   >
-- 取消夜间跑步限制
-
-  > 该功能会自动切换到无序模式，可以使用**修改跑步模式**修改成有序点位
-  >
-- 关闭定位信息检测
-
-  > 该功能在定位信息弱的时候可以减少一定的GPS信号弱的警告
-  >
-- 关闭点位信息检测
-
-  > 完全跳过点位信息检测，甚至在GPS信号没有的时候都能保持跑步模式，但是这样并不能完成跑步任务，所以这个功能不建议启动，反而会因为无法了解自身的GPS状态而导致白跑
-  >
-- 去广告
-
-  > 本项目是直接停止广告的相关活动、弹窗来去掉广告，所以理论上说，并不容易被后台运控开启广告。
-  >
-- 强制返回取消弹窗
-
-  > 这个目前作用不大，主要是去弹窗广告的备选方案
+- 手机无Root
+  > 用光虚拟机安装面具坏境，安装Fakelocation和运动世界校园再安装HMS做好应用隐藏即可
   >
 
-## 安装
+## 操作教程
 
-本项目仅进行开源处理，并不对使用者负责。且成果仅在内部使用，如需使用也可以自行`git clone`本仓库进行编译apk使用，切勿进行广泛流传。
+如果教程视频对你很有帮助还请多多支持，你们的支持是我更新技术教程的动力！
 
-> git clone git@github.com:LiuYiGL/RunWorldSchoolMod.git
+---
+> [***抖音***]()
 
-## 使用教程
+> [***B站***](https://)
 
-该辅助为Xposed模块，使用前需对Xposed框架有一定了解。
-具体使用教程参照其他Xposed插件，本项目推荐用Lsposed框架进行安装，或者使用Lspactch对宿主App进行修补
+> [***快手***](https://)
 
-> 详情 [Lsposed](https://github.com/LSPosed/LSPosed)、[Lspatch](https://github.com/LSPosed/LSPatch)
+> [***吾爱破解***](https://)
 
-## 感谢
+> [***MT论坛***](https://)
 
-- 首先肯定是[Lsposed](https://github.com/LSPosed/LSPosed)框架，免重启应用模块真的帮了我的大忙
-- 其次就是KyuubiRan的[EzXHelper](https://github.com/KyuubiRan/EzXHelper)提供了很多的工具类可以让我专注于逻辑的编写
+---
+## 所需工具下载
+
+- 运动世界校园去广告去更新版 
+- Fakelocation官方正版
+- Fakelocation修改版
+- 光速虚拟机修改版
+- 面具Maisk
+- Lsposed模块
+- Shamiko模块
+- MT管理器
+- Hookvip
+
+> 123网盘 [下载链接](https://www.123pan.com/s/NbrUVv-kna6d.html)、百度网盘[下载链接](暂时没有) Hookvip[补](https://www.123pan.com/s/NbrUVv-ona6d.html)
+
+## 结语
+
+- THEYX技术交流群[点击入群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=pYluVaItjyOrQKOlPVv8Sxcq6J4ym9-I&authKey=07%2FBIPfgvgHIYbm6kkNWv%2BoCDc04wXILh7mV5SiClYfw3lo%2BwjRnLjUF8uzryP1G&noverify=0&group_code=541233272)
+- ***如果大家对技术教程感兴趣科技加入QQ群探讨哦！***
 
 ---
 
-> 作者算是小白一个，第一次在GitHub上有自己的开源项目，如果有很多不太规范的地方欢迎积极不吝赐教，感谢支持！
+> ***最后*** ：本人也是在通过学习了解到的该项技术，有不足之处还请多多指教！
