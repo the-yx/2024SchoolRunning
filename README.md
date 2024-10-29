@@ -55,7 +55,7 @@
 ## 结语
 
 - THEYX技术交流群[点击入群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=pYluVaItjyOrQKOlPVv8Sxcq6J4ym9-I&authKey=07%2FBIPfgvgHIYbm6kkNWv%2BoCDc04wXILh7mV5SiClYfw3lo%2BwjRnLjUF8uzryP1G&noverify=0&group_code=541233272)
-- THEYX技术交流群②[点击入群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=pYluVaItjyOrQKOlPVv8Sxcq6J4ym9-I&authKey=07%2FBIPfgvgHIYbm6kkNWv%2BoCDc04wXILh7mV5SiClYfw3lo%2BwjRnLjUF8uzryP1G&noverify=0&group_code=518925650)
+- THEYX技术交流群②[点击入群](https://qm.qq.com/q/ekIK6bYlEc)
 - ***如果大家对技术教程感兴趣科技加入QQ群探讨哦！***
 
 ---
