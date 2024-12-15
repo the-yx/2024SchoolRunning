@@ -1,5 +1,5 @@
 # 运动世界校园2024刷跑教程
-
+！！！！当前方法已失效仅做参考，讨论刷跑技术请到QQ频道！！！！
 ## 技术说明
 
 ---
@@ -22,7 +22,7 @@
   > 用光虚拟机安装面具坏境，安装Fakelocation和运动世界校园再安装HMS做好应用隐藏即可
   >
 
-## 操作教程
+## 操作教程（违规删除）
 
 如果教程视频对你很有帮助还请多多支持，你们的支持是我更新技术教程的动力！
 
@@ -38,7 +38,7 @@
 > [***MT论坛***](https://)
 
 ---
-## 所需工具下载
+## 所需工具下载（已和谐）
 
 - 运动世界校园去广告去更新版 
 - Fakelocation官方正版
@@ -54,6 +54,7 @@
 
 ## 结语
 
+- THEYX技术交流频道[点击加入]([http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=pYluVaItjyOrQKOlPVv8Sxcq6J4ym9-I&authKey=07%2FBIPfgvgHIYbm6kkNWv%2BoCDc04wXILh7mV5SiClYfw3lo%2BwjRnLjUF8uzryP1G&noverify=0&group_code=541233272](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&biz=ka&businessType=5&from=246611&inviteCode=2lwABmhVcX9&mainSourceId=qr_code&subSourceId=pic3&jumpsource=shorturl#/out))
 - THEYX技术交流群[点击入群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=pYluVaItjyOrQKOlPVv8Sxcq6J4ym9-I&authKey=07%2FBIPfgvgHIYbm6kkNWv%2BoCDc04wXILh7mV5SiClYfw3lo%2BwjRnLjUF8uzryP1G&noverify=0&group_code=541233272)
 - THEYX技术交流群②[点击入群](https://qm.qq.com/q/ekIK6bYlEc)
 - ***如果大家对技术教程感兴趣科技加入QQ群探讨哦！***
